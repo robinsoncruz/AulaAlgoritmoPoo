@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vetor", "Vetor\Vetor.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula10-03-PrimeroExemploPOO", "Aula10-03-PrimeroExemploPOO\Aula10-03-PrimeroExemploPOO.csproj", "{F9F1CFEC-5C77-452B-8ADC-00D13F8E8905}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PooCalculo", "PooCalculo\PooCalculo.csproj", "{156C8596-BCB9-40DE-87D0-C6C45CAA637A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{F9F1CFEC-5C77-452B-8ADC-00D13F8E8905}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F9F1CFEC-5C77-452B-8ADC-00D13F8E8905}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F9F1CFEC-5C77-452B-8ADC-00D13F8E8905}.Release|Any CPU.Build.0 = Release|Any CPU
+		{156C8596-BCB9-40DE-87D0-C6C45CAA637A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{156C8596-BCB9-40DE-87D0-C6C45CAA637A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{156C8596-BCB9-40DE-87D0-C6C45CAA637A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{156C8596-BCB9-40DE-87D0-C6C45CAA637A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
