@@ -3,8 +3,8 @@
 ContaBancaria _contabancaria=new ContaBancaria();
 
 _contabancaria.Depositar(50);
-
-Console.Write(_contabancaria.Saldo);
+_contabancaria.Saldo = 1500;
+Console.Write(_contabancaria.getSaldo());
 
 
 Console.ReadLine();

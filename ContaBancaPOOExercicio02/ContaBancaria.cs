@@ -10,7 +10,8 @@ namespace ContaBancaPOOExercicio02
     {
         public string NumeroConta;
         public string Titular;
-        public double Saldo=0;
+        
+        public double Saldo { get; set; }
 
         public void Depositar(double valor)
         {
